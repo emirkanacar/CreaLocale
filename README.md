@@ -16,3 +16,13 @@ When contributing to an existing localization it is best to communicate with oth
 
 ## Crea Updates
 Before Crea receives an update this repository will be updated with the new `en.locale` file. With this you can replace this with the current version at Crea install folder `mods/core/ui/en.locale`. With the updated file you can see which localizations have changed or been added through the Localizer tool.
+
+# Localizations Guidelines
+
+Crea is a family friendly game. When localizing Crea keep this in mind and do not use profanity or anything of that sort.
+
+# Contribution Rights Disclaimer
+
+Siege Games reserves the rights to decide which contributions are accepted and which ones are not. In other words, there are no guarantees that you localization will be accepted.
+
+The rights for any contribution are forfieted to Siege Games without any compensation. With that being said, eventually I would like to finally add a credits section to Crea and include localization contributors in there.
